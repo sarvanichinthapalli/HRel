@@ -70,8 +70,7 @@ plt.ylim(0,150) #FOR DEATILED FIGURE
 
 plt.gcf().savefig('plots/'+file_name + "Sigmas_1_2.png")
 plt.show()
-import sys
-sys.exit()
+
 #------------------------------------------------------------------------------------------------------------------------------------------------
 
 plt.figure(1, figsize=(10, 6))

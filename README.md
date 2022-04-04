@@ -5,8 +5,13 @@ durga
 
 ## Acknowledgements
 
-Code for Mutual information estimation and Information plane analysis is taken from [here](https://github.com/Wickstrom/InformationTheoryExperiment)
+Code for Mutual information estimation and Information plane analysis is taken from [Wickstrom](https://github.com/Wickstrom/InformationTheoryExperiment)
 
-Few blocks of this [code](https://github.com/lmbxmu/HRank) are used
+Few blocks of [HRank](https://github.com/lmbxmu/HRank) code are used
+
+##Running the code
+
+Run the file with the suffix "ex.py" in the respective architectures.
+At the end ".npz " file is created with the Mutual information and sigma values for plotting.
 
 

@@ -1,5 +1,5 @@
 durga
-# HRel: Filter Pruning based on High Relevance between Activation Maps and Class Labels
+# [HRel: Filter Pruning based on High Relevance between Activation Maps and Class Labels](https://www.researchgate.net/publication/358795563_HRel_Filter_Pruning_based_on_High_Relevance_between_Activation_Maps_and_Class_Labels)
 
 .yaml file of the conda environment is also included
 
